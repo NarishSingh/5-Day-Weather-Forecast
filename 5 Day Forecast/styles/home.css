@@ -1,0 +1,27 @@
+body{
+    background-color: darkgray;
+}
+
+#conditions-row {
+    display: none;
+}
+
+#forecast-row {
+    display: none;
+    margin: 15px;
+}
+
+#city-header {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#condition-desc {
+    text-align: center;
+    font-weight: bold;
+}
+
+#temp-humidity-wind {
+    text-align: center;
+}
